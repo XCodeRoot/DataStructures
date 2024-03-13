@@ -19,6 +19,7 @@ public class _07错误票据 {
 5 6 8 11 9
 10 12 9
          */
+        System.out.println("可以显示中文");
         Scanner sc=new Scanner(System.in);
         int N=sc.nextInt();
         sc.nextLine();//吃掉输入的换行符
